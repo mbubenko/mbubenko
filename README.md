@@ -12,6 +12,10 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 - **[Threat Hunting Scenario (Tor Browser Usage)]()**
 
+## :fire: Automation
+- **[Automation (PowerShell, Bash, Python, JavaScript, Perl, and Ruby)](https://github.com/mbubenko/Automation)**
+
+
 <hr/>
 
 ## 🤳 Connect With Me
