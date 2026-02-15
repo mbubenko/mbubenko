@@ -11,7 +11,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
       
 ## 🚨 Threat Hunting and Security Operations
 
-- **[Threat Hunting Scenario (Tor Browser Usage)]()**
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/mbubenko/Threat-Hunting-Scenario-TOR)**
 * *Impact:* Established detection logic to identify unauthorized anonymized traffic within a corporate network.
     * **Tech:** Azure Sentinel, KQL
 
