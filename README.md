@@ -17,10 +17,21 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## 🚀 Comprehensive DevOps Engineering Bootcamp (Azure Edition)
 
-- | **I** | **Foundations (Linux & Git)** | ⬜ In Progress |
-- | **II** | **Containers (Docker & Nexus)** | ⬜ Pending |
-- | **III** | **Core DevOps (Kubernetes & Jenkins)** | ⬜ Pending |
-- | **IV** | **Automation (Terraform, Ansible, Python)** | ⬜ Pending |
+- | **I** | **Foundations (Linux & Git)** | ⬜ In Progress
+- [Linux Application Troubleshooting](https://github.com/mbubenko/Linux-Fundamentals/tree/main)
+  * *Impact:* Successfully restored application connectivity by diagnosing a port mismatch and resolving permission bottlenecks.
+  * **Tech:** OS: Ubuntu Linux (Containerized) | Database: PostgreSQL | CLI Tools: curl, grep, sed, chmod, find, vim | Scripting: Bash (Automation & Remediation) | Platform: Docker
+
+- | **II** | **Containers (Docker & Nexus)** | ⬜ Pending
+
+
+- | **III** | **Core DevOps (Kubernetes & Jenkins)** | ⬜ Pending
+
+
+
+- | **IV** | **Automation (Terraform, Ansible, Python)** | ⬜ Pending
+
+  
 
 ## :fire: Automation
 - **[Automation (PowerShell, Bash, Python, JavaScript, Perl, and Ruby)](https://github.com/mbubenko/Automation)**
